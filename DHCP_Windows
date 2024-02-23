@@ -1,0 +1,6 @@
+If you want to use the service DHCP, here is a simple guide where you can learn how to use it in Windows. The DHCP is used if you want to configure the ips dynamically, not manually.
+
+First of all we need a machine with the operating system of Windows Server, my recomendation is to use a stable version, not the newest.
+
+
+
